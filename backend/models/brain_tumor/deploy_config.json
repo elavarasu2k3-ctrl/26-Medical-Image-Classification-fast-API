@@ -1,0 +1,18 @@
+{
+  "model": "ResUNet",
+  "threshold": 0.85,
+  "min_area": 37,
+  "img_size": 128,
+  "base_channels": 16,
+  "mean": [
+    0.09273247,
+    0.08491244,
+    0.08995226
+  ],
+  "std": [
+    0.1325022,
+    0.11817833,
+    0.12799893
+  ],
+  "weights": "ResUNet.pt"
+}

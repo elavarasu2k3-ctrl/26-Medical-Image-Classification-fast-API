@@ -1,0 +1,8 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+.env
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
